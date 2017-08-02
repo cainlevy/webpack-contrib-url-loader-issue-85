@@ -1,0 +1,14 @@
+{
+  "name": "repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "file-loader": "^1.0.0",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.4.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
